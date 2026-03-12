@@ -1,0 +1,1 @@
+t("Bonjour, c'est mon jeu")
